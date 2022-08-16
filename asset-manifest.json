@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/osori/static/css/main.41192453.css",
-    "main.js": "/osori/static/js/main.f811e0f4.js",
-    "static/media/scandi-123.png": "/osori/static/media/scandi-123.3445f759e1dc186d89ff.png",
-    "static/media/osori-logo.png": "/osori/static/media/osori-logo.d50a4a876ba4bd6eeaee.png",
-    "static/media/IssueImage.png": "/osori/static/media/IssueImage.21846b6cc81162e26297.png",
-    "static/media/up-arrow.png": "/osori/static/media/up-arrow.5e4890a56341e91fb835.png",
-    "index.html": "/osori/index.html"
+    "main.css": "/osorideploy/static/css/main.41192453.css",
+    "main.js": "/osorideploy/static/js/main.ab23d246.js",
+    "static/media/scandi-123.png": "/osorideploy/static/media/scandi-123.3445f759e1dc186d89ff.png",
+    "static/media/osori-logo.png": "/osorideploy/static/media/osori-logo.d50a4a876ba4bd6eeaee.png",
+    "static/media/IssueImage.png": "/osorideploy/static/media/IssueImage.21846b6cc81162e26297.png",
+    "static/media/up-arrow.png": "/osorideploy/static/media/up-arrow.5e4890a56341e91fb835.png",
+    "index.html": "/osorideploy/index.html"
   },
   "entrypoints": [
     "static/css/main.41192453.css",
-    "static/js/main.f811e0f4.js"
+    "static/js/main.ab23d246.js"
   ]
 }
