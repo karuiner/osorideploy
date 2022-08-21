@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/osorideploy/static/css/main.41192453.css",
-    "main.js": "/osorideploy/static/js/main.ab23d246.js",
+    "main.js": "/osorideploy/static/js/main.24074bc3.js",
     "static/media/scandi-123.png": "/osorideploy/static/media/scandi-123.3445f759e1dc186d89ff.png",
     "static/media/osori-logo.png": "/osorideploy/static/media/osori-logo.d50a4a876ba4bd6eeaee.png",
     "static/media/IssueImage.png": "/osorideploy/static/media/IssueImage.21846b6cc81162e26297.png",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.41192453.css",
-    "static/js/main.ab23d246.js"
+    "static/js/main.24074bc3.js"
   ]
 }
